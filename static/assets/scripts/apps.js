@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "Amazon",
-      link: "https://amazon.com/",
-      image: "/assets/media/icons/apps/amazon.png",
+      name: "Fortnite",
+      link: "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiy2r6A8vaDAxXdElkFHbyiCVAQFnoECA4QAQ&url=https%3A%2F%2Fnow.gg%2Fen%2Fapps%2Fepic-games%2F7308%2Ffortnite.html&usg=AOvVaw2UJJcRa00nN81gnmR2C0Sy&opi=89978449",
+      image: "/assets/media/icons/fortnite.png",
       categories: ["all", "media"],
       error: false
     },
