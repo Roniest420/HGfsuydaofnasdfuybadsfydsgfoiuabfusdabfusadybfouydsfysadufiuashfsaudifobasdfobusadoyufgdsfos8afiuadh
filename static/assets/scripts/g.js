@@ -1476,7 +1476,7 @@ document.addEventListener('DOMContentLoaded', () => {
        {
       name: "Lagged",
       link: "https://lagged.com/",
-      image: "/assets/media/icons/dynast-io.png",
+      image: "static/assets/media/icons/lagged.png",
       categories: ['all'],
     },
   ];
