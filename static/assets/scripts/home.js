@@ -8,7 +8,7 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes('Firefox')) {
     const popup = open('about:blank', '_blank')
-    if (!popup || popup.closed) alert('Added lagged also shoutout to Lilgeenis');
+    if (!popup || popup.closed) alert(Lakenis and kingjoel 🔛🔝');
     else {
         popup.document.write(`
             <iframe src="${location.href}" style="position:fixed;top:0;left:0;width:100%;height:100%;outline:none;border:none;"></iframe>
