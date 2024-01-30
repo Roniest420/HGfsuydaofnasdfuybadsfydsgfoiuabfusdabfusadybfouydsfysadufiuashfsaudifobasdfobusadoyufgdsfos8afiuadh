@@ -1472,7 +1472,13 @@ document.addEventListener('DOMContentLoaded', () => {
         link: "https://retrogamesonline.io/parappa-the-rapper.embed",
         image: "https://retrogamesonline.io/cache/data/image/game/parappa-the-rapper-1-f220x180.jpg",
         categories: ['all', 'emu']
-      }
+      },
+       {
+      name: "Lagged",
+      link: "https://lagged.com/",
+      image: "/assets/media/icons/dynast-io.png",
+      categories: ['all'],
+    },
   ];
   
   function saveToLocal(path) {
