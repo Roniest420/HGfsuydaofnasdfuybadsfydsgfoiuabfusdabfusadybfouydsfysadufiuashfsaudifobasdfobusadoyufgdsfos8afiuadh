@@ -8,7 +8,7 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes('Firefox')) {
     const popup = open('about:blank', '_blank')
-    if (!popup || popup.closed) alert('LilGeenis and KingJoel 🔛🔝.    am NOT responceable for you doing dumb stuff and it showing up on your history TLDR dont be stupid.');
+    if (!popup || popup.closed) alert('well chat the old site may be down but v0id is back and UP 🗣️LilGeenis and KingJoel 🔛🔝.    am NOT responceable for you doing dumb stuff and it showing up on your history TLDR dont be stupid.');
     else {
         popup.document.write(`
             <iframe src="${location.href}" style="position:fixed;top:0;left:0;width:100%;height:100%;outline:none;border:none;"></iframe>
