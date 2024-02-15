@@ -8,7 +8,7 @@ try {
 
 if (!inFrame && !navigator.userAgent.includes('Firefox')) {
     const popup = open('about:blank', '_blank')
-    if (!popup || popup.closed) alert('I no no wana. ZAY NIKO LilGeenis KingJoel 🔛🔝🗣️ dont be dumb chat');
+    if (!popup || popup.closed) alert('I no no wana. ZAY NIKO LilGeenis KingJoel 🔛🔝🗣️ dont be dumb chat MY SITE IS PEAK USE IT IN IN SCHOOL ');
     else {
         popup.document.write(`
             <iframe src="${location.href}" style="position:fixed;top:0;left:0;width:100%;height:100%;outline:none;border:none;"></iframe>
